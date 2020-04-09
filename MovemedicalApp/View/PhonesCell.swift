@@ -41,8 +41,8 @@ class PhonesCell: UITableViewCell {
         didSet {
             self.name.text = item?.name
             self.descriptions.text = item?.description
-            self.brand.text = "BRAND: \(item?.brand ?? "")"
-            self.first_Released.text = item?.first_Released
+            self.brand.text = "Brand: \(item?.brand ?? "")"
+            self.first_Released.text = "Release Date: \(item?.first_Released ?? "")"
         }
     }
     

@@ -40,11 +40,13 @@
         {
             "name": "Tesla Model 3",
             "description": "The Tesla Model 3 is an electric four-door sedan developed by Tesla. The Model 3 Standard Range Plus version delivers an EPA-rated all-electric range of 250 miles (402 km) and the Long Range versions deliver 322 miles (518 km). At least one Model 3 was driven 606.2 miles (975 km) on a single charge",
+            "imageName": "Tesla3",
             "manufacturer": "Tesla"
         },
         {
             "name": "Tesla Model S",
             "description": "The Tesla Model S is an all-electric five-door liftback sedan, produced by Tesla, Inc., and introduced on June 22, 2012. As of March 2020, the Model S Long Range Plus has an EPA range of 390 miles (630 km), which is higher than any other battery electric car",
+            "imageName": "TeslaS",
             "manufacturer": "Tesla"
         }
     ]

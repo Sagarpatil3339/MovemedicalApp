@@ -35,7 +35,7 @@ class BooksCell: UITableViewCell {
         didSet {
             self.name.text = item?.name
             self.descriptions.text = item?.description
-            self.author.text = item?.author
+            self.author.text = "Written By: \(item?.author ?? "")"
         }
     }
     
