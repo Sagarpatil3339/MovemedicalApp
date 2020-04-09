@@ -1,0 +1,52 @@
+{"data": {
+    "books": [
+        {
+            "name": "The Philosopher's Stone",
+            "description": "The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry",
+            "author": "J. K. Rowling"
+        },
+        {
+            "name": "The Chamber of Secrets",
+            "description": "The plot follows Harry's second year at Hogwarts School of Witchcraft and Wizardry, during which a series of messages on the walls of the school's corridors warn that the Chamber of Secrets has been opened and that the heir of Slytherin would kill all pupils who do not come from all-magical families. These threats are found after attacks that leave residents of the school petrified. Throughout the year, Harry and his friends Ron and Hermione investigate the attacks",
+            "author": "J. K. Rowling"
+        },
+        {
+            "name": "Prisoner of Azkaban",
+            "description": "The book follows Harry Potter, a young wizard, in his third year at Hogwarts School of Witchcraft and Wizardry. Along with friends Ronald Weasley and Hermione Granger, Harry investigates Sirius Black, an escaped prisoner from Azkaban, the wizard prison, believed to be one of Lord Voldemort's old allies.",
+            "author": "J. K. Rowling"
+        }
+    ],
+    "phones": [
+        {
+          "name": "iPhone X",
+          "description": "The iPhone X (Roman numeral X pronounced ten) is a smartphone designed, developed, and marketed by Apple Inc. It is the eleventh generation of the iPhone and was announced on September 12, 2017, alongside the iPhone 8 and iPhone 8 Plus, at the Steve Jobs Theater in the Apple Park campus. It was available to pre-order on October 27, 2017 and was released on November 3, 2017",
+          "brand": "Apple",
+          "firstReleased": "November 3, 2017"
+        },
+        {
+            "name": "iPhone XS",
+            "description": "The iPhone XS and iPhone XS Max (stylized and marketed as iPhone Xs and iPhone Xs Max; Roman numeral X pronounced ten) are smartphones designed, developed and marketed by Apple Inc. They are the twelfth-generation flagships of the iPhone, succeeding the iPhone X. Apple CEO Tim Cook announced the devices alongside a lower-end model, the iPhone XR, on September 12, 2018, at the Steve Jobs Theater at Apple Park. Pre-orders began on September 14, 2018, and went on sale on September 21.",
+            "brand": "Apple",
+            "firstReleased": "September 21, 2018"
+        },
+        {
+            "name": "iPhone 11 Pro",
+            "description": "The iPhone 11 Pro and iPhone 11 Pro Max are smartphones designed, developed and marketed by Apple Inc. They are the 13th-generation flagships of the iPhone, succeeding the iPhone XS and iPhone XS Max, respectively. Apple CEO Tim Cook unveiled the devices alongside a lower-end model, the iPhone 11, on September 10, 2019, at the Steve Jobs Theater at Apple Park. Pre-orders began on September 13, 2019, and went on sale on September 20.",
+            "brand": "Apple",
+            "firstReleased": "September 20, 2019"
+        }
+    ],
+    "cars": [
+        {
+            "name": "Tesla Model 3",
+            "description": "The Tesla Model 3 is an electric four-door sedan developed by Tesla. The Model 3 Standard Range Plus version delivers an EPA-rated all-electric range of 250 miles (402 km) and the Long Range versions deliver 322 miles (518 km). At least one Model 3 was driven 606.2 miles (975 km) on a single charge",
+            "manufacturer": "Tesla"
+        },
+        {
+            "name": "Tesla Model S",
+            "description": "The Tesla Model S is an all-electric five-door liftback sedan, produced by Tesla, Inc., and introduced on June 22, 2012. As of March 2020, the Model S Long Range Plus has an EPA range of 390 miles (630 km), which is higher than any other battery electric car",
+            "manufacturer": "Tesla"
+        }
+    ]
+}
+}
